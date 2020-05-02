@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Personal-Advisor-React-App/precache-manifest.255b05eee1d91fc4b27e088ace472241.js"
+  "/Personal-Advisor-React-App/precache-manifest.2b115eab50a719ce5f4f8a8852cfbfd2.js"
 );
 
 self.addEventListener('message', (event) => {
